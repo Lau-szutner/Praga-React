@@ -1,0 +1,47 @@
+/* HEADER */
+.Header {
+  background-color: black;
+  height: 100vh;
+  background-image: url("./assets/Praga.jpg");
+  width: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  gap: 30%;
+}
+
+#title {
+  margin-left: 8%;
+}
+
+#title p {
+  font-size: 4em;
+  margin: 0px;
+  padding: 0px;
+}
+
+#title h1 {
+  font-size: 12em;
+  margin: 0px;
+  padding: 0px;
+}
+/* NAVBAR */
+#navBar {
+  margin: 0px;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+
+#navBar a {
+  text-decoration: none;
+  color: white;
+  font-size: 2em;
+  padding: 20px;
+}
+#navBar a:hover {
+  text-decoration: underline;
+}
