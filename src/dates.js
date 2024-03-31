@@ -1,7 +1,5 @@
 import castilloImg from "./assets/castilloImg.jpeg";
 import relojImg from "./assets/relojImg.png";
-// import jsxImg from './assets/jsx-ui.png';
-// import stateImg from './assets/state-mgmt.png';
 
 const tarjetas = [
   {

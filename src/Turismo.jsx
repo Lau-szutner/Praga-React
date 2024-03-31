@@ -20,7 +20,7 @@ function Tarjetas(props) {
       <div id="tarjetas">
         <img src={props.image} alt="" />
         <div id="tarjeta-interior">
-          <h2>{props.title}</h2>
+          <h5>{props.title}</h5>
           <p>{props.description}</p>
           <button>Ver mas</button>
         </div>

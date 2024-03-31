@@ -1,6 +1,6 @@
 #turismo {
   background-color: black;
-  height: 120vh;
+  height: 110vh;
   background-image: url("./assets/turismo.jpg");
 
   background-size: cover;
@@ -32,8 +32,10 @@
   border-top-right-radius: 15px;
 }
 
-#tarjetas h2 {
+#tarjetas h5 {
   align-self: center;
+  font-size: 2em;
+  margin: 5px;
 }
 
 #tarjeta-interior {
@@ -43,7 +45,6 @@
 }
 
 #titulo {
-  font-size: 5em;
   margin: 0px;
   padding: 70px;
 }
