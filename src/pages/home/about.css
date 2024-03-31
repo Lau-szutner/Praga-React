@@ -1,0 +1,11 @@
+#about {
+  height: 30vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-items: center;
+  background-color: rgb(34, 34, 34);
+}
+
+#about h3 {
+  font-size: 2em;
+}

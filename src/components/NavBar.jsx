@@ -4,19 +4,19 @@ export default function NavBar() {
       <div>
         <ul id="navBar">
           <li>
-            <a href="">Inicio</a>
+            <a href="#">Inicio</a>
           </li>
           <li>
-            <a href="">Turismo</a>
+            <a href="#">Turismo</a>
           </li>
           <li>
-            <a href="">Gastronomia</a>
+            <a href="#">Gastronomia</a>
           </li>
           <li>
-            <a href="">Reserva</a>
+            <a href="#">Reserva</a>
           </li>
           <li>
-            <a href="">Contacto</a>
+            <a href="#">Contacto</a>
           </li>
         </ul>
       </div>

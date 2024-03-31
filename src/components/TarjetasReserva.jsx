@@ -1,4 +1,3 @@
-import "../pages/home/Reserva";
 import hotelAtosImg from "../assets/hotelAtos.jpeg";
 
 export default function TarjetaReserva() {
@@ -6,7 +5,7 @@ export default function TarjetaReserva() {
     <div id="tarjetasReserva">
       <img src={hotelAtosImg} alt="" />
       <div id="reservaContenedor">
-        <h3>Hotel tanto</h3>
+        <h3>Hotel Atos</h3>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur
           ducimus autem quam incidunt blanditiis voluptatibus dolorem fugiat

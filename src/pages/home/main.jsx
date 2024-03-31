@@ -4,6 +4,7 @@ import Home from "./Home.jsx";
 import Turismo from "./Turismo.jsx";
 import Gastronomia from "./Gastronomia.jsx";
 import Reserva from "./Reserva.jsx";
+import About from "./About.jsx";
 import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
@@ -12,5 +13,6 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     <Turismo />
     <Gastronomia />
     <Reserva />
+    <About />
   </React.StrictMode>
 );
