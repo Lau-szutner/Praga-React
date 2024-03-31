@@ -1,0 +1,60 @@
+#reserva {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-image: url("../../assets/reservaImg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: auto;
+}
+
+#reserva h2 {
+  margin-top: 0px;
+}
+
+#tarjetasReserva img {
+  height: auto;
+  border-radius: 15px;
+  width: 30%;
+}
+
+#tarjetasReserva {
+  display: flex;
+  background-color: white;
+  color: black;
+  border-radius: 15px;
+  padding: 30px;
+  width: 70%;
+  gap: 20px;
+  box-shadow: 0 0 30px 20px rgba(0, 0, 0, 0.469);
+}
+
+#tarjetasReserva div {
+  height: auto;
+}
+
+#tarjetasReserva h3 {
+  font-size: 2em;
+}
+#precio {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5em;
+  width: 70%;
+}
+
+#reservaContenedor button {
+  align-self: center;
+  text-decoration: none;
+  width: 100px;
+  color: black;
+  font-size: 1em;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: white;
+}

@@ -1,5 +1,5 @@
 import "./Turismo.css";
-import Cards from "../../components/Cards.jsx";
+import Cards from "../../components/Card.jsx";
 import CardsDates from "../../dates.js";
 
 export default function Turismo() {
