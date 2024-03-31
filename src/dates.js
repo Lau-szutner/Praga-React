@@ -1,7 +1,7 @@
 import castilloImg from "./assets/castilloImg.jpeg";
 import relojImg from "./assets/relojImg.png";
 
-const tarjetas = [
+const CardsDates = [
   {
     image: castilloImg,
     title: "Castillo de Praga",
@@ -22,4 +22,4 @@ const tarjetas = [
   },
 ];
 
-export default tarjetas;
+export default CardsDates;

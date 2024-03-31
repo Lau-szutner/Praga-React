@@ -1,6 +1,4 @@
-import "./Home.css";
-
-function NavBar() {
+export default function NavBar() {
   return (
     <>
       <div>
@@ -22,20 +20,6 @@ function NavBar() {
           </li>
         </ul>
       </div>
-    </>
-  );
-}
-
-export default function Home() {
-  return (
-    <>
-      <header className="Header">
-        <NavBar />
-        <div id="title">
-          <p>Conoce</p>
-          <h1>Praga</h1>
-        </div>
-      </header>
     </>
   );
 }

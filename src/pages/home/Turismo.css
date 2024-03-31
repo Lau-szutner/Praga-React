@@ -1,7 +1,7 @@
 #turismo {
   background-color: black;
   height: 110vh;
-  background-image: url("./assets/turismo.jpg");
+  background-image: url("../../assets/turismo.jpg");
 
   background-size: cover;
   background-repeat: no-repeat;
@@ -11,7 +11,7 @@
   align-items: center;
 }
 
-#tarjetas {
+#Cards {
   color: black;
   display: flex;
   flex-direction: column;
@@ -22,17 +22,17 @@
   transition: transform 0.9s ease;
 }
 
-#tarjetas:hover {
+#Cards:hover {
   transform: translateY(-100px);
 }
 
-#tarjetas img {
+#Cards img {
   width: auto;
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
 }
 
-#tarjetas h5 {
+#Cards h5 {
   align-self: center;
   font-size: 2em;
   margin: 5px;
@@ -49,7 +49,7 @@
   padding: 70px;
 }
 
-#tarjetas button {
+#Cards button {
   align-self: center;
   text-decoration: none;
   width: 100px;
@@ -61,7 +61,7 @@
   background-color: white;
 }
 
-#tarjetas-div {
+#Cards-div {
   margin: 0px;
   padding: 0px;
   display: flex;
