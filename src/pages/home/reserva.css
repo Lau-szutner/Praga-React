@@ -72,4 +72,12 @@
   #precio {
     width: auto;
   }
+
+  #reserva h2 {
+    margin-top: 92px;
+  }
+
+  #reserva {
+    height: auto;
+  }
 }

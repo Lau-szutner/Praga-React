@@ -1,6 +1,5 @@
 #turismo {
   background-color: black;
-  height: 110vh;
   background-image: url("../../assets/turismo.jpg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -79,5 +78,9 @@
 
   #Cards {
     width: 70%;
+  }
+
+  #Cards:hover {
+    transform: translateY(-50px);
   }
 }
